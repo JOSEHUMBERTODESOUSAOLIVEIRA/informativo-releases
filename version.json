@@ -1,7 +1,7 @@
 {
-  "version_code": 4,
-  "version_name": "1.1.4",
+  "version_code": 5,
+  "version_name": "1.1.5",
   "download_url": "https://github.com/JOSEHUMBERTODESOUSAOLIVEIRA/informativo-releases/releases/download/1.1.2/app-debug.apk",
-  "changelog": "- correçao pro paralelo.",
-  "force_update": true
+  "changelog": "- novo layout e aviso de bateria descarregando.",
+  "force_update": false
 }
